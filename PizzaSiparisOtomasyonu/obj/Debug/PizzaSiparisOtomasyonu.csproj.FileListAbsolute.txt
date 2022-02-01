@@ -1,0 +1,10 @@
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\bin\Debug\PizzaSiparisOtomasyonu.exe.config
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\bin\Debug\PizzaSiparisOtomasyonu.exe
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\bin\Debug\PizzaSiparisOtomasyonu.pdb
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\obj\Debug\PizzaSiparisOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\obj\Debug\PizzaSiparisOtomasyonu.AnaSayfa.resources
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\obj\Debug\PizzaSiparisOtomasyonu.Properties.Resources.resources
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\obj\Debug\PizzaSiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\obj\Debug\PizzaSiparisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\obj\Debug\PizzaSiparisOtomasyonu.exe
+C:\Users\mrtdl\Desktop\PizzaSiparisOtomasyonu\PizzaSiparisOtomasyonu\obj\Debug\PizzaSiparisOtomasyonu.pdb
